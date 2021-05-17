@@ -1,6 +1,6 @@
 # portfolio
 Portfolio est un site web personnel construit en utilisant du html, css. <br>
-Une démonstration en direct est disponible ici : [https://christiantheobald.github.io/portfolio/index.html](https://christiantheobald.github.io/portfolio/index.html)
+Une démonstration en direct est disponible ici : [https://christiantheobald.github.io/portfolio](https://christiantheobald.github.io/portfolio)
 ## Comment l'utiliser
 A chaque fois que vous chargez la page, elle charge un fond d'écran aléatoire. <br>
 Vous pouvez publier le site sur n'importe quel service d'hébergement statique, très facilement, par exemple, [Netlify](https://netlify.com). <br>
